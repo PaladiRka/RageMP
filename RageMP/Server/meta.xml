@@ -1,0 +1,4 @@
+﻿<meta>
+	<info name="RageMP_Server" type="script"/>
+	<script src="Server.dll"/>
+</meta>
